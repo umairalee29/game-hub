@@ -29,3 +29,5 @@ components/ui/
 #packages
 package-lock.json
 package.json
+
+.vercel
